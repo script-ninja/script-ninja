@@ -1,4 +1,21 @@
-<h1>Привет! 👋</h1>
+<h1 align="center">👋 Привет! Меня зовут Александр.</h1>
+
+<img align="right" width="50%" src="https://picsum.photos/id/180/400/300" alt="Cover">
+
+<p align="center">Я веб-разработчик.</p>
+
+Мои стек:
+- HTML
+- CSS
+- Javascript
+- React
+- Webpack
+- Node.js
+- Express.js
+- MongoDB
+- Git
+
+#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=script-ninja&layout=compact)](https://github.com/script-ninja)
 
