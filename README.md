@@ -1,23 +1,18 @@
-<h1 align="center">👋 Привет! Меня зовут Александр.</h1>
+<h2 align="center">👋 Привет! Меня зовут Александр.</h2>
 
-<img align="right" width="50%" src="https://picsum.photos/id/180/400/300" alt="Cover">
+<p align="center"><img src="https://picsum.photos/id/201/1200/200" alt="Cover"></p>
 
-<p align="center">Я веб-разработчик.</p>
+- 🔭 Я веб-разработчик.
+- 🌱 На данный момент изучаю React, Svelte, Typescript
+- 📫 Почта для связи: <a href="mailto:script-ninja@yandex.com">script-ninja@yandex.com</a>
+- 💬 Телеграм: <a href="https://t.me/script_ninja" target="_blank">@script_ninja</a>
 
-Мои стек:
-- HTML
-- CSS
-- Javascript
-- React
-- Webpack
-- Node.js
-- Express.js
-- MongoDB
-- Git
+### Использую в работе:
+HTML CSS Javascript React Webpack Node.js Express.js MongoDB Git
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=script-ninja&layout=compact)](https://github.com/script-ninja)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=script-ninja&layout=compact" alt="Top langs"></p>
 
 <!--
 **script-ninja/script-ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
