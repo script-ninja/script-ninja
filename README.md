@@ -12,7 +12,7 @@ HTML CSS Javascript React Webpack Node.js Express.js MongoDB Git
 
 #
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=script-ninja&layout=compact" alt="Top langs"></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=script-ninja&layout=compact&count_private=true" alt="Top langs"></p>
 
 <!--
 **script-ninja/script-ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
